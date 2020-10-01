@@ -8,6 +8,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+notebook_ims
+*/.notebook_ims/*
+
 # IPython
 profile_default/
 ipython_config.py
